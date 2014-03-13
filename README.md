@@ -1,4 +1,4 @@
-MarketChange integration/staging tree
+MarketChange (CHG) integration/staging tree
 =====================================
 
 http://marketchange.github.io
@@ -8,6 +8,12 @@ Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2013 Litecoin Developers
 
 Copyright (c) 2014 The MarketChange Developers
+
+Ports
+-----
+
+- RPC Port 14437
+- P2P Port 14438 (Testnet: 13438)
 
 What is MarketChange?
 ---------------------
@@ -21,6 +27,15 @@ MarketChange is a clone of Litecoin that is meant to make it easy for merchants 
 
 For more information, as well as an immediately useable, binary version of
 the MarketChange client sofware, see http://marketchange.github.io
+
+FAQ
+---
+
+-Why is the genesis block from so long ago?
+Because I had originally started making the coin at that time, but other things got in the way so the release was held back.
+
+-I want to donate!
+Great! You can send MarketChange to this address: MREjSSg3CHZ4oDqSKCYM5RQypEZbuqRBZV
 
 License
 -------

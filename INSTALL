@@ -1,0 +1,9 @@
+Building MarketChange
+
+See doc/readme-qt.rst for instructions on building marketchange-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MarketChange.
+
+See doc/build-*.txt for instructions on building marketchange,
+the intended-for-services, no-graphical-interface, reference
+implementation of MarketChange.

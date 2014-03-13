@@ -13,7 +13,7 @@ What is MarketChange?
 ---------------------
 
 MarketChange is a clone of Litecoin that is meant to make it easy for merchants to accept cryptocurrency.
- - 2.5 minute block targets
+ - 55 second block targets
  - subsidy lessens in 574k blocks (~1 year)
  - ~200 million total coins
  - 50 coins per block

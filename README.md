@@ -9,6 +9,11 @@ Copyright (c) 2011-2013 Litecoin Developers
 
 Copyright (c) 2014 The MarketChange Developers
 
+Block Explorer
+--------------
+
+http://chgexplorer.tk
+
 Ports
 -----
 

@@ -14,6 +14,11 @@ Block Explorer
 
 http://chgexplorer.tk
 
+Pool
+----
+
+http://chgpool.tk:15437/static
+
 Ports
 -----
 

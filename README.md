@@ -1,6 +1,8 @@
 MarketChange (CHG) integration/staging tree
 =====================================
 
+![Build status](https://api.travis-ci.org/marketchange/marketchange.svg)
+
 http://marketchange.github.io
 
 Copyright (c) 2009-2013 Bitcoin Developers
